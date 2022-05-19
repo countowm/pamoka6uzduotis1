@@ -1,0 +1,33 @@
+.isorine{
+    height: 400px;
+    width:100%;
+    border-color: black;
+}
+.vidaus{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p{
+    display: inline-block;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: calc(100% - 40% - 40% - 1%);
+}
+.box1{
+    border: 20px;
+    background-color: blue;
+    margin-right: 60px;
+}
+.box2{
+    border: 20px;
+    background-color: red;
+    margin-right: 80px;
+}
+.box3{
+    border: 20px;
+    background-color: green;
+    margin-right: 60px;
+}
